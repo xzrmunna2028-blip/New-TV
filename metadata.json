@@ -1,0 +1,6 @@
+{
+  "name": "Neon IPTV Player",
+  "description": "An ultra-modern futuristic IPTV player and live sports directory, featuring 67 active entertainment and sports channels with real-time stream state tracking, dark neon-cyan styling, and interactive screen views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
